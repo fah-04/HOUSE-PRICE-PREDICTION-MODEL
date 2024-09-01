@@ -26,7 +26,7 @@ This project uses machine learning to predict house prices based on features lik
 
 ## Results
 
-* The Linear Regression model achieved an accuracy of  [insert accuracy here]  on the test set.
+* The Linear Regression model achieved an accuracy of 60% on the test set.
 * Other models were also explored (Support Vector Machine, Decision Tree) but results are not included in this README.
 
 ## Usage
